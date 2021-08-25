@@ -1,0 +1,32 @@
+#contenedor{
+    background-color: antiquewhite;
+    height: 750px;
+    width: 850px;
+}
+#menu{
+    background-color: rgb(93, 224, 32);
+    height: 750px;
+    width: 290px;
+    display: inline-block;
+}
+#contenido{
+    background-color: brown;
+    height: 750px;
+    width: 500px;
+    display: inline-block;
+}
+#perfil{
+    background-color: blanchedalmond;
+    width: 295px;
+    height: 100px;
+}
+#opciones{
+    background-color: brown;
+    width: 295px;
+    height: 100px;
+}
+#configuracion{
+    background-color: cadetblue;
+    width: 295px;
+    height: 100px;
+}
